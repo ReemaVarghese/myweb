@@ -17,13 +17,13 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="accor.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="accor.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="employee.html">contact</a>
+                <a class="nav-link" href="employee.php">contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="logreg.html">about</a>
+                <a class="nav-link" href="logreg.php">about</a>
               </li>
              
             </ul>
