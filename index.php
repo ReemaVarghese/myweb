@@ -8,6 +8,28 @@
     <title>Login</title>
 </head>
 <body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">my Teaching</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="accor.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="employee.php">contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="logreg.php">about</a>
+              </li>
+             
+            </ul>
+          </div>
+        </div>
+      </nav>
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-6 col-lg-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis consequuntur eos temporibus facilis nisi fugiat ratione impedit suscipit autem numquam, itaque aliquam minima cum, debitis architecto vel consectetur quaerat iste!</div>
